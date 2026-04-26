@@ -1,6 +1,4 @@
 # java-week1-project
-# Java Week 1 Project
-
 ##  Description
 This is a simple Object-Oriented Programming (OOP) project written in Java.
 
@@ -21,17 +19,16 @@ The program simulates a person with different states such as energy, mood, and k
 - User Input (Scanner)
 - Loops and Conditional Statements
 
-## How to Run
+##  How to Run
 1. Open the project in IntelliJ IDEA
 2. Run the Main.java file
 3. Enter your name
 4. Choose actions from the menu
 
-## Autour
+##  Author
 - Rediet Nigussie
 
 
 
 
 
-- Your Name
